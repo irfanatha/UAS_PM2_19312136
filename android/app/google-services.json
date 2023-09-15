@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6550791972",
+    "project_id": "uas-19312136",
+    "storage_bucket": "uas-19312136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6550791972:android:f72330199d4b46ef76f5b1",
+        "android_client_info": {
+          "package_name": "com.uasirfan.uasirfan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQa8aAriUWJ_Me1zs3A6YbSKlDBF3_yN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
